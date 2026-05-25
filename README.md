@@ -35,7 +35,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **Procedure**
 
 /* write all the steps invloved */
-
+1.Open Quartus Prime software and create a new project.
+2.Select the appropriate device and create a new Verilog HDL file.
+3.Write the Verilog program for JK Flip-Flop using if-else statements.
+4.Save the file with the appropriate module name and compile the design.
+5.Fix any syntax or compilation errors if present.
+6.Generate the RTL schematic and verify the logic design.
+7.Create the waveform input file and apply different combinations of J, K, and Clock inputs.
+8.Run functional simulation and observe the output waveform.
+9.Verify the obtained output with the JK Flip-Flop truth table.
+10.Record the RTL diagram and timing diagram results.
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:SANJAY A
